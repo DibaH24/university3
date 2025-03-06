@@ -3,4 +3,6 @@ project(university3)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(university3 main.cpp)
+add_executable(university3 main.cpp
+        add.cpp
+        add.h)
