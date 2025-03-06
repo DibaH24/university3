@@ -1,0 +1,5 @@
+ToolSet: 3.20 (local)@D:\mingw\MinGW
+Ninja: 1.12.0@C:\Users\arezo\Desktop\CLion 2024.2.1\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/arezo/Desktop/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe
